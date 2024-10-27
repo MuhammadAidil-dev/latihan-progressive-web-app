@@ -9,3 +9,4 @@ npm install
 
 ### komponen pwa yang telah diterapkan
 1. Application shell
+2. Web app manifest
